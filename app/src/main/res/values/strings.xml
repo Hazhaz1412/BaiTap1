@@ -3,4 +3,5 @@
     <string name="Input">Input kilogram:</string>
     <string name="titlePound">Pound:</string>"
     <string name="btnConvert">Convert</string>
+    <string name="enter">Enter weight in kilo</string>
 </resources>
